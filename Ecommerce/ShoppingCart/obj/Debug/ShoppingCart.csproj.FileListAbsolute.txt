@@ -1,0 +1,6 @@
+D:\Ecommerce\ShoppingCart\bin\Debug\ShoppingCart.dll
+D:\Ecommerce\ShoppingCart\bin\Debug\ShoppingCart.pdb
+D:\Ecommerce\ShoppingCart\obj\Debug\ShoppingCart.csproj.AssemblyReference.cache
+D:\Ecommerce\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\Ecommerce\ShoppingCart\obj\Debug\ShoppingCart.dll
+D:\Ecommerce\ShoppingCart\obj\Debug\ShoppingCart.pdb

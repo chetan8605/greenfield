@@ -1,0 +1,14 @@
+D:\Ecommerce\EcommerceTest\bin\Debug\EcommerceTest.exe.config
+D:\Ecommerce\EcommerceTest\bin\Debug\EcommerceTest.exe
+D:\Ecommerce\EcommerceTest\bin\Debug\EcommerceTest.pdb
+D:\Ecommerce\EcommerceTest\bin\Debug\Catalogue.dll
+D:\Ecommerce\EcommerceTest\bin\Debug\CRM.dll
+D:\Ecommerce\EcommerceTest\bin\Debug\OrderProcessing.dll
+D:\Ecommerce\EcommerceTest\bin\Debug\Catalogue.pdb
+D:\Ecommerce\EcommerceTest\bin\Debug\CRM.pdb
+D:\Ecommerce\EcommerceTest\bin\Debug\OrderProcessing.pdb
+D:\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.csproj.AssemblyReference.cache
+D:\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.csproj.CoreCompileInputs.cache
+D:\Ecommerce\EcommerceTest\obj\Debug\Ecommerc.A4D575A9.Up2Date
+D:\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.exe
+D:\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.pdb

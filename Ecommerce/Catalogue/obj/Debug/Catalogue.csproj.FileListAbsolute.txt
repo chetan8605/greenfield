@@ -1,0 +1,6 @@
+D:\Ecommerce\Catalogue\bin\Debug\Catalogue.dll
+D:\Ecommerce\Catalogue\bin\Debug\Catalogue.pdb
+D:\Ecommerce\Catalogue\obj\Debug\Catalogue.csproj.AssemblyReference.cache
+D:\Ecommerce\Catalogue\obj\Debug\Catalogue.csproj.CoreCompileInputs.cache
+D:\Ecommerce\Catalogue\obj\Debug\Catalogue.dll
+D:\Ecommerce\Catalogue\obj\Debug\Catalogue.pdb

@@ -1,0 +1,6 @@
+D:\Ecommerce\CRM\bin\Debug\CRM.dll
+D:\Ecommerce\CRM\bin\Debug\CRM.pdb
+D:\Ecommerce\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+D:\Ecommerce\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\Ecommerce\CRM\obj\Debug\CRM.dll
+D:\Ecommerce\CRM\obj\Debug\CRM.pdb

@@ -1,0 +1,6 @@
+D:\Ecommerce\Taxation\bin\Debug\Taxation.dll
+D:\Ecommerce\Taxation\bin\Debug\Taxation.pdb
+D:\Ecommerce\Taxation\obj\Debug\Taxation.csproj.AssemblyReference.cache
+D:\Ecommerce\Taxation\obj\Debug\Taxation.csproj.CoreCompileInputs.cache
+D:\Ecommerce\Taxation\obj\Debug\Taxation.dll
+D:\Ecommerce\Taxation\obj\Debug\Taxation.pdb

@@ -1,0 +1,6 @@
+D:\Ecommerce\Delegation\bin\Debug\Delegation.dll
+D:\Ecommerce\Delegation\bin\Debug\Delegation.pdb
+D:\Ecommerce\Delegation\obj\Debug\Delegation.csproj.AssemblyReference.cache
+D:\Ecommerce\Delegation\obj\Debug\Delegation.csproj.CoreCompileInputs.cache
+D:\Ecommerce\Delegation\obj\Debug\Delegation.dll
+D:\Ecommerce\Delegation\obj\Debug\Delegation.pdb

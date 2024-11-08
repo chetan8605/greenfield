@@ -1,0 +1,6 @@
+D:\Ecommerce\Membership\bin\Debug\Membership.dll
+D:\Ecommerce\Membership\bin\Debug\Membership.pdb
+D:\Ecommerce\Membership\obj\Debug\Membership.csproj.AssemblyReference.cache
+D:\Ecommerce\Membership\obj\Debug\Membership.csproj.CoreCompileInputs.cache
+D:\Ecommerce\Membership\obj\Debug\Membership.dll
+D:\Ecommerce\Membership\obj\Debug\Membership.pdb

@@ -1,0 +1,16 @@
+D:\Ecommerce\SerializationTestApp\bin\Debug\SerializationTestApp.exe.config
+D:\Ecommerce\SerializationTestApp\bin\Debug\SerializationTestApp.exe
+D:\Ecommerce\SerializationTestApp\bin\Debug\SerializationTestApp.pdb
+D:\Ecommerce\SerializationTestApp\bin\Debug\POCOLib.dll
+D:\Ecommerce\SerializationTestApp\bin\Debug\Services.dll
+D:\Ecommerce\SerializationTestApp\bin\Debug\Specification.dll
+D:\Ecommerce\SerializationTestApp\bin\Debug\BinaryDataRepositoryLib.dll
+D:\Ecommerce\SerializationTestApp\bin\Debug\POCOLib.pdb
+D:\Ecommerce\SerializationTestApp\bin\Debug\Services.pdb
+D:\Ecommerce\SerializationTestApp\bin\Debug\Specification.pdb
+D:\Ecommerce\SerializationTestApp\bin\Debug\BinaryDataRepositoryLib.pdb
+D:\Ecommerce\SerializationTestApp\obj\Debug\SerializationTestApp.csproj.AssemblyReference.cache
+D:\Ecommerce\SerializationTestApp\obj\Debug\SerializationTestApp.csproj.CoreCompileInputs.cache
+D:\Ecommerce\SerializationTestApp\obj\Debug\Serializ.7BDD11EF.Up2Date
+D:\Ecommerce\SerializationTestApp\obj\Debug\SerializationTestApp.exe
+D:\Ecommerce\SerializationTestApp\obj\Debug\SerializationTestApp.pdb

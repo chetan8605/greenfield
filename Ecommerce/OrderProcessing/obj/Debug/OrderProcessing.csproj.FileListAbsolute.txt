@@ -1,0 +1,6 @@
+D:\Ecommerce\OrderProcessing\bin\Debug\OrderProcessing.dll
+D:\Ecommerce\OrderProcessing\bin\Debug\OrderProcessing.pdb
+D:\Ecommerce\OrderProcessing\obj\Debug\OrderProcessing.csproj.AssemblyReference.cache
+D:\Ecommerce\OrderProcessing\obj\Debug\OrderProcessing.csproj.CoreCompileInputs.cache
+D:\Ecommerce\OrderProcessing\obj\Debug\OrderProcessing.dll
+D:\Ecommerce\OrderProcessing\obj\Debug\OrderProcessing.pdb

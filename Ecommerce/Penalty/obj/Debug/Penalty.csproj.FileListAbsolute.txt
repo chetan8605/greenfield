@@ -1,0 +1,6 @@
+D:\Ecommerce\Penalty\bin\Debug\Penalty.dll
+D:\Ecommerce\Penalty\bin\Debug\Penalty.pdb
+D:\Ecommerce\Penalty\obj\Debug\Penalty.csproj.AssemblyReference.cache
+D:\Ecommerce\Penalty\obj\Debug\Penalty.csproj.CoreCompileInputs.cache
+D:\Ecommerce\Penalty\obj\Debug\Penalty.dll
+D:\Ecommerce\Penalty\obj\Debug\Penalty.pdb

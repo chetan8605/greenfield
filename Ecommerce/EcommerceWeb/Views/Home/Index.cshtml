@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <section class="row" aria-labelledby="aspnetTitle">
+        @{ 
+            //int a = 1;
+            //int b = 2;
+            int add(int a,int b)
+            {
+                return a + b;
+            }
+            int res = add(4, 5);
+            <p>@res</p>
+
+        }
+        <h1 id="title">Chetan Sales</h1>
+        <p class="lead">Online Shopping Application</p>
+        <a href="/products/index">Products</a>
+        <p><a href="https://asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
+    </section>
+    p
+    <div class="row">
+        <ol>
+            @{
+                foreach (EcommerceWeb.Models.Product p in @Model)
+                {
+                    <p> @p.Name @p.Description @p.Price </p>
+                    <li>
+                        <img src="@p.Url" width="200" height="200" />
+                    </li>
+                }
+            }
+        </ol>
+    </div>
+</main>
